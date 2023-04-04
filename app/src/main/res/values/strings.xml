@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TP4_pil-mobile-basics-CounterMVP</string>
+    <string name="app_title">TP4 Counter MVP</string>
+    <string name="increment">+</string>
+    <string name="decrement">-</string>
+    <string name="reset">Reset</string>
+</resources>
